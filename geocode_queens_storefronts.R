@@ -1,7 +1,7 @@
-register_google(key = "AIzaSyA5yZ_Yaz0bNCmX9t6EsZD1x9NaAsmAqKo")
+register_google(key = "[API KEY]")
 library(ggmap)
 
-queens_retail <- read.csv("/Users/sarakim/Documents/GIS_geoprocessing_assignment/queens_retail_for_lease_4_7_updated.csv", header=TRUE)
+queens_retail <- read.csv("[filepath]/file.csv", header=TRUE)
 
 nrow(queens_retail) #177
 str(queens_retail)
@@ -19,4 +19,4 @@ sum(is.na(queens_retail_no_NAs)) # 0
 nrow(queens_retail_no_NAs) # 150
 
 
-write.csv(queens_retail_no_NAs, "/Users/sarakim/Documents/GIS_geoprocessing_assignment/queens_retail_no_NAs.csv", row.names = FALSE)
+write.csv(queens_retail_no_NAs, "[filepath]/file.csv", row.names = FALSE)
