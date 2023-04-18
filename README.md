@@ -53,4 +53,4 @@ leaves us with 120 potential locations.
 IN THE FUTURE:
 
 Next, I’d be interested in bringing in the data of all the locations of houses of worship and
-doing yet another merge/dissolve to weed out more retail site prospects.-->
+doing yet another merge/dissolve to weed out more retail site prospects.
