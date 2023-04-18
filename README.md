@@ -11,13 +11,13 @@ NYC government, and your time has come to choose a retail location. You live in 
 and, therefore, would like your storefront to be located there.
 
 However, your storefront cannot be located just anywhere. According to the NY State Office
-of Cannabis Management’s “Guidance for Adult-Use Retail Dispensaries” document, under
-section 23 (“Location of Licensed Premises”), assuming that the potential location of a
+of Cannabis Management’s [“Guidance for Adult-Use Retail Dispensaries” document, under
+section 23 (“Location of Licensed Premises”)](https://cannabis.ny.gov/system/files/documents/2023/02/guidance-for-adult-use-retail-dispensaries-2.1.pdf), assuming that the potential location of a
 licensed cannabis storefront complies with local zoning ordinances, it cannot be located:
-1) within 500 feet of a school. (I downloaded this dataset of public school locations
-from NYC Open Data.)
+1) within 500 feet of a school. (I downloaded this [dataset of public school locations
+from NYC Open Data](https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr).)
 2) within 1000 feet of another for-recreational-use or for-medical-use cannabis
-storefront. (Good Grades in Jamaica is the first - and so far the only - recreational-use
+storefront. ([Good Grades in Jamaica](https://www.nbcnews.com/news/nbcblk/new-york-citys-newest-weed-dispensary-opens-black-woman-helm-rcna78191) is the first - and so far the only - recreational-use
 storefront in Queens, having opened on March 30th, and my dataset of the three
 medical-use dispensaries that exist in Queens were compiled from www.silive.com.)
 3) on the same street or avenue and within 200 feet of a building occupied exclusively
